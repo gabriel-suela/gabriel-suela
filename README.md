@@ -8,7 +8,7 @@
 <br>
 
 ## 〽️ Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=gabriel-suela&show_icons=true&count_private=true&theme=nightowl" width="446"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-suela&layout=compact&count_private=true&theme=nightowl&,less&langs_count=8"   height="175"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel-suela&show_icons=true&count_private=true&theme=nightowl" width="400" height="179"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-suela&layout=compact&count_private=true&theme=nightowl&,less&langs_count=8" width="400" height="175"/>  
 <br/>  
 
 ## 📫 Reach me
