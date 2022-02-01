@@ -3,8 +3,7 @@
 ## 🚀 About
 - 🎓 Formado em Letras/Literaturas (UFRRJ)  
 - 👀 Atualmente estou focado em estudar **Desenvolvimento Frontend**
-- 🔭 Estou estudando **React, Next**
-- ❤️ **pensar, aprender, codar, e costumizar tudo** 
+- 🔭 Estou estudando **JavaScript**
 <br>
 
 ## 〽️ Github Stats  
