@@ -1,9 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />Hi there, Gabriel here</h1>
 
 ## 🚀 About
-- 🎓 Formado em Letras/Literaturas (UFRRJ)  
-- 👀 Atualmente estou focado em estudar **Desenvolvimento Frontend**
-- 🔭 Estou estudando **JavaScript**
+
 <br>
 
 ## 〽️ Github Stats  
