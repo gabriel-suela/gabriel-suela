@@ -32,5 +32,5 @@
   </a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-suela&color=violet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-suela&color=red" alt="Profile views" /> </p>
 
