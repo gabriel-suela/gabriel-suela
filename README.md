@@ -18,6 +18,11 @@
 ## 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Aismail%40flick.id)](mailto:gscsuela@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vardasnytt?style=social&logoColor=black)](https://twitter.com/intent/follow?screen_name=vardasnytt)
+<a href="https://www.linkedin.com/in/gabriel-suela/">
+    <img 
+      src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
+      alt="linked-in">
+  </a>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=gabriel-suela.gabriel-suela)](#)
 
