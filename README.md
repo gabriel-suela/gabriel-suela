@@ -1,5 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />Hi there, Gabriel here</h1>
 
+![image](https://user-images.githubusercontent.com/96388423/165846106-32c2dcb7-6715-4771-8023-ec4c516b75e8.png)
+
 ## 🚀 About
 
 <br>
