@@ -31,5 +31,6 @@
       alt="linked-in">
   </a>
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=gabriel-suela.gabriel-suela)](#)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-suela&color=purple" alt="Profile views" /> </p>
 
