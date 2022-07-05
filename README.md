@@ -47,5 +47,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gab.gab&left_color=black&right_color=darkslateblue&left_text=visitantes"  />
 </div>
 
-###
-Profile Readme Generator
