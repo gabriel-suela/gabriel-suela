@@ -39,7 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/gab/gab/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
