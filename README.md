@@ -30,9 +30,9 @@
 </p>
           
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-suela&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="gabriel-suela"  /> </p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-suela&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="gabriel-suela"  /> </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabriel-suela&show_icons=true&theme=synthwave&locale=en" alt="gabriel-suela" width="355" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-suela&show_icons=true&theme=synthwave&locale=en" alt="gabriel-suela" /></p>
 <br>
 
 
