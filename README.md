@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h4 align="center">About me:</h4>
-<p align="center">
-🔭 Estou em busca do meu primeiro emprego como desenvolvedor frontend junior.<br>
-🌱 Atualmente estou aprendendo React.
 </p>
 <br>
 
