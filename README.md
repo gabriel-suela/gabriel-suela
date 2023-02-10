@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-</p>
-<br>
+# Hi 👋
 
+<img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-suela&theme=gotham&hide_border=true&locale=pt-br"/>
+<img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-suela&theme=gotham&layout=compact&hide_border=true"/>
+<img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/?username=gabriel-suela&show_icons=true&theme=gotham&hide_border=true"/>
 
+### Além do Github
+ - 💼 Trabalho como Analista de dados
+ - 🌱 Estudando React e Python
+ - 📫 [Linkedin](https://www.linkedin.com/in/gabriel-suela)
 
-### 📊 GitHub Stats:
-<div>
-<a href="https://github.com/gabriel-suela">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-suela&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-suela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
