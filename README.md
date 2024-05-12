@@ -18,8 +18,3 @@ print("hello world")
 <div align="center">
   📫 Contact me at <a href="mailto:gscsuela@gmail.com">gscsuela@gmail.com</a>
 </div>
-
-<!---
-maxhu08/maxhu08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
