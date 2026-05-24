@@ -12,7 +12,3 @@ print("hello world")
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=gabriel-suela&color=grey&style=for-the-badge"></a>
 </div>
 
-
-<div align="center">
-  📫 Contact me at <a href="mailto:gscsuela@gmail.com">gscsuela@gmail.com</a>
-</div>
